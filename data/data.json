@@ -1,0 +1,30 @@
+{
+    "mobiles":[
+        {
+            "name":"Realme7 pro",
+            "image":"img/realme.jpg",
+            "originalPrice":22000,
+            "price":21999
+        },{
+            "name":"Redmi6 pro",
+            "image":"img/redmi.jpg",
+            "originalPrice":11000,
+            "price":10999
+        },{
+            "name":"vivo y83",
+            "image":"img/vivo.jpg",
+            "originalPrice":15000,
+            "price":14999
+        },{
+            "name":"iphone 11 pro",
+            "image":"img/iphone.jpg",
+            "originalPrice":150000,
+            "price":149999
+        },{
+            "name":"samsung s20",
+            "image":"img/samsung.jpg",
+            "originalPrice":70000,
+            "price":69999
+        }
+    ]
+}
